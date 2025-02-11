@@ -1,1 +1,1 @@
-I am Hanzhang Hu and I also go by the name "Echo". I work at the perception team of Aurora for its autonomous vehicles.
+I am Hanzhang Echo Hu. I work in the autonomous driving company Aurora Inc, on perception and planning problems. 
